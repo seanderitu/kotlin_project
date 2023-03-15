@@ -3,5 +3,7 @@ fun main(args: Array<String>) {
 
     var age:Int = readLine()!!.toInt()
 
-    println(age)
+    println(age==1)
+    print("Data Deals")
+
 }
