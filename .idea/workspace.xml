@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee9b3f00-15f5-4333-8e49-bcae40a19990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DataBundles.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exerciseforloops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/forloop_exe2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/compare.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/compare.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/GradingSystem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/GradingSystem.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bmi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bmi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.DataBundlesKt">
-    <configuration name="AreaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AreaKt" />
-      <module name="firstkotlin_project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Forloop_exe2Kt">
     <configuration name="BmiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BmiKt" />
       <module name="firstkotlin_project" />
@@ -68,8 +64,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataBundlesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataBundlesKt" />
+    <configuration name="ExerciseforloopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExerciseforloopsKt" />
+      <module name="firstkotlin_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Forloop_exe2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Forloop_exe2Kt" />
       <module name="firstkotlin_project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.DataBundlesKt" />
+        <item itemvalue="Kotlin.Forloop_exe2Kt" />
+        <item itemvalue="Kotlin.ExerciseforloopsKt" />
+        <item itemvalue="Kotlin.BmiKt" />
         <item itemvalue="Kotlin.CompareExerciseKt" />
         <item itemvalue="Kotlin.CompareKt" />
-        <item itemvalue="Kotlin.BmiKt" />
-        <item itemvalue="Kotlin.AreaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -106,5 +109,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/bmi.kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
