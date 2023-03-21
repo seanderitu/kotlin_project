@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee9b3f00-15f5-4333-8e49-bcae40a19990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exerciseforloops.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/forloop_exe2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/exwhenstatements.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/whenstatements.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/GradingSystem.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/GradingSystem.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bmi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bmi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,30 +40,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Forloop_exe2Kt">
-    <configuration name="BmiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BmiKt" />
-      <module name="firstkotlin_project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompareExerciseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompareExerciseKt" />
-      <module name="firstkotlin_project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CompareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompareKt" />
-      <module name="firstkotlin_project" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.FunctionsKt">
     <configuration name="ExerciseforloopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExerciseforloopsKt" />
+      <module name="firstkotlin_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExwhenstatementsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExwhenstatementsKt" />
       <module name="firstkotlin_project" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,13 +62,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
+      <module name="firstkotlin_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhenstatementsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhenstatementsKt" />
+      <module name="firstkotlin_project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionsKt" />
+        <item itemvalue="Kotlin.ExwhenstatementsKt" />
+        <item itemvalue="Kotlin.WhenstatementsKt" />
         <item itemvalue="Kotlin.Forloop_exe2Kt" />
         <item itemvalue="Kotlin.ExerciseforloopsKt" />
-        <item itemvalue="Kotlin.BmiKt" />
-        <item itemvalue="Kotlin.CompareExerciseKt" />
-        <item itemvalue="Kotlin.CompareKt" />
       </list>
     </recent_temporary>
   </component>
